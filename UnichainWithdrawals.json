@@ -1,0 +1,226 @@
+{
+  "version": "1.0",
+  "chainId": "130",
+  "createdAt": 1756492009400,
+  "meta": {
+    "name": "UnichainWithdrawals",
+    "description": "",
+    "txBuilderVersion": "1.18.0",
+    "createdFromSafeAddress": "0x82BF455e9ebd6a541EF10b683dE1edCaf05cE7A1",
+    "createdFromOwnerAddress": "",
+    "checksum": "0x21dc03d469eeef66382cc200995681f644637556b67f10191a567b77a78e9d7d"
+  },
+  "transactions": [
+    {
+      "to": "0x91734A141E59663D8242e621A1cbd5f249bB9548",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x4200000000000000000000000000000000000006",
+        "amount": "3986699797331417288"
+      }
+    },
+    {
+      "to": "0x91734A141E59663D8242e621A1cbd5f249bB9548",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+        "amount": "8778319485"
+      }
+    },
+    {
+      "to": "0x4C11575Ff78F42d653320477268e989329D1DaBD",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x4200000000000000000000000000000000000006",
+        "amount": "733225601565792007"
+      }
+    },
+    {
+      "to": "0x4C11575Ff78F42d653320477268e989329D1DaBD",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+        "amount": "51257291"
+      }
+    },
+    {
+      "to": "0x2e9b9B37Ca1953ad8F587f449e55A59c37D0219F",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x4200000000000000000000000000000000000006",
+        "amount": "547193801748219750"
+      }
+    },
+    {
+      "to": "0x2e9b9B37Ca1953ad8F587f449e55A59c37D0219F",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x9151434b16b9763660705744891fA906F660EcC5",
+        "amount": "3781989"
+      }
+    },
+    {
+      "to": "0xA24Ec5116d01bCA0445b9097E69f60ec4f452991",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x9151434b16b9763660705744891fA906F660EcC5",
+        "amount": "9197415"
+      }
+    },
+    {
+      "to": "0xA24Ec5116d01bCA0445b9097E69f60ec4f452991",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+        "amount": "471866"
+      }
+    },
+    {
+      "to": "0x55a2D73B4F3B64097F7b6C708De3b947C7B2F5A7",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+        "amount": "9439181"
+      }
+    },
+    {
+      "to": "0x55a2D73B4F3B64097F7b6C708De3b947C7B2F5A7",
+      "value": "0",
+      "data": null,
+      "contractMethod": {
+        "inputs": [
+          {
+            "name": "tokenAddress",
+            "type": "address",
+            "internalType": "address"
+          },
+          { "name": "amount", "type": "uint256", "internalType": "uint256" }
+        ],
+        "name": "withdraw",
+        "payable": false
+      },
+      "contractInputsValues": {
+        "tokenAddress": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+        "amount": "1016425"
+      }
+    }
+  ]
+}
+
